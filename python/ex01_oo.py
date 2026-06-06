@@ -10,6 +10,3 @@ produto2 = Produto("Mouse", 80.00)
 print(produto1.nome, "-", produto1.preco)
 print(produto2.nome, "-", produto2.preco)
 
-# Saída:
-# Notebook - 3500.0
-# Mouse - 80.0
