@@ -1,1 +1,5 @@
+dias_uteis = ("Segunda", "Terça", "Quarta", "Quinta", "Sexta")
 
+print(dias_uteis[0])   # Segunda
+print(dias_uteis[-1])  # Sexta
+print(len(dias_uteis)) # 5
