@@ -1,4 +1,4 @@
-ex01_oo.py
+
 class Produto:
     def __init__(self, nome, preco):
         self.nome = nome
