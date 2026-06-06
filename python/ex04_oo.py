@@ -24,7 +24,3 @@ conta.sacar(1500)
 
 conta.extrato()
 
-# Saída:
-# Saldo insuficiente
-# Titular: Luiz Gustavo
-# Saldo: R$1200.00
