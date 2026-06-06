@@ -11,5 +11,3 @@ produto = Produto("Notebook", 100.0)
 
 print(produto.desconto(10))
 
-# Saída:
-# 90.0
