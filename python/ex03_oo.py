@@ -20,6 +20,3 @@ carro.acelerar()
 carro.frear()
 
 print(carro.velocidade)
-
-# Saída:
-# 20
