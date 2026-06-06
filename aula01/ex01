@@ -1,1 +1,4 @@
+colegas = ["João", "Maria", "Pedro", "Ana", "Carlos"]
 
+print(colegas[0])   # João
+print(colegas[-1])  # Carlos
